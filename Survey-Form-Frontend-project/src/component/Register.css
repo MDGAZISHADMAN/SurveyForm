@@ -1,0 +1,170 @@
+.main-div {
+    display: flex;
+    background-image: linear-gradient(white, #6ED4FF);
+    height: 100vh;
+}
+
+.left-side {
+    margin-left: 10vw;
+    margin-top: 5vh;
+    padding-top: 10vh;
+    width: 28vw;
+}
+
+.welcome-text {
+    color: #5C5C5C;
+    font-family: 'Montserrat', sans-serif;
+    opacity: 100%;
+    padding-top: 12vh;
+    font-size: 26px;
+}
+
+.below-text {
+    color: #5C5C5C;
+    font-family: 'Montserrat', sans-serif;
+    opacity: 100%;
+    padding-top: 2vh;
+    font-size: 22px;
+
+}
+
+.text-small {
+    color: #5C5C5C;
+    font-family: 'Montserrat', sans-serif;
+    opacity: 100%;
+    padding-top: 3vh;
+    font-size: 12px;
+}
+
+.small-text {
+    color: #565657;
+    font-family: 'Montserrat', sans-serif;
+    opacity: 100%;
+    padding-top: 12vh;
+    font-size: 8px;
+}
+
+#btn-signin {
+    margin-top: 1vh;
+    background-color: #278DF1;
+    border-radius: 15px;
+    color: whitesmoke;
+    border: none;
+    outline: none;
+    font-family: 'Montserrat', sans-serif;
+    width: 12vw;
+    height: 6vh;
+    font-size: 10px;
+}
+
+
+
+/*  right side */
+
+.container {
+    height: 80vh;
+    width: 40vw;
+    margin-left: 3vw;
+    border-radius: 20px;
+    margin-top: 10vh;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    box-shadow: 0px 3px 30px #00000029;
+    opacity: 1;
+}
+
+.heading1 {
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    padding-top: 3vh;
+    font-size: 26px;
+}
+
+.heading2 {
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 10px;
+    padding-top: 3vh;
+    color: #808080;
+    opacity: 100%;
+
+}
+
+
+input:focus { 
+    outline: none;
+
+}
+
+
+.reg-input {
+    border: none;
+    border-bottom: 1px solid lightgray;
+    margin: 1vw;
+    margin-left: 3vw;
+}
+
+.reg-input {
+    border: none;
+    border-bottom: 1px solid lightgray;
+    margin: 1vw;
+    margin-left: 3vw;
+}
+
+.reg-input {
+    border: none;
+    border-bottom: 1px solid lightgray;
+    margin: 1vw;
+    margin-left: 3vw;
+}
+
+.reg-input {
+    border: none;
+    border-bottom: 0.8px solid lightgray;
+    margin: 1vw;
+    margin-left: 3vw;
+}
+
+.input-box {
+    margin-right: 10px;
+    margin-left: 1vw;
+    margin-top: 6vh;
+    margin-bottom: 2vw;
+    margin-left: 3vw;
+}
+
+input::placeholder {
+    font-size: 10px;
+
+}
+
+
+.checkbox-text {
+    color: #53A4F4;
+    opacity: 100%;
+    font-size: 10px;
+    text-decoration: underline;
+    margin-left: 0.3vw;
+    
+    
+}
+
+#checkbox {
+    margin-left: 4vw;
+    margin-left: 8vw;
+    
+}
+
+
+.btns-1 {
+    margin-top: 3.5vh;
+    background-color: #278DF1;
+    border-radius: 15px;
+    color: whitesmoke;
+    border: none;
+    outline: none;
+    font-family: 'Montserrat', sans-serif;
+    width: 12vw;
+    height: 6vh;
+    font-size: 10px;
+    margin-left: 14vw; 
+}
